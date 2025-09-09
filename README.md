@@ -3,7 +3,11 @@
 <h2>👩‍💻 Some Cyber Security Projects:</h2>
 
 - <b>SOC Lab Environment & Realtime Malware Analysis</b>
-  - [Performing Vulnerability Scanning]()
+  - [Performing Vulnerability Scanning](https://github.com/AmberHamilton/Performing-Vulnerability-Scanning/tree/main)
+  - [Performing Vulnerability Analysis]()
+  - Performing Asset Discovery
+  - Performing Passive Scanning
+  - Analyzing Cloud Vulnerabilities
     
 - <b>Python Projects</b>
   - [Stock Market Prediction](https://github.com/AmberHamilton/Stock-Market-Predictions/blob/main/Stocks%20Prediction.ipynb)
