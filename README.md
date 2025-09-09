@@ -1,4 +1,20 @@
-## Hi there 👋
+<h1>Hi, I'm Amber! <br/><a href="https://github.com/AmberHamilton">Programmer</a>, <a href="https://www.linkedin.com/in/amber-ariel-hamilton-53749419a/">Cybersecurity Professional</a></h1>
+
+<h2>👩‍💻 Some Cyber Security Projects:</h2>
+
+- <b>SOC Lab Environment & Realtime Malware Analysis</b>
+  - [Performing Vulnerability Scanning]()
+    
+- <b>Python Projects</b>
+  - [Stock Market Prediction](https://github.com/AmberHamilton/Stock-Market-Predictions/blob/main/Stocks%20Prediction.ipynb)
+  - [Retail Company Analysis](https://github.com/AmberHamilton/Retail-Company-Analysis)
+
+<h2> 🤳 Connect with me:</h2>
+
+[<img align="left" alt="Amber Hamilton | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
+[linkedin]: https://linkedin.com/in/amber-ariel-hamilton-53749419a
+
 
 <!--
 **AmberHamilton/AmberHamilton** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
