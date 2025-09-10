@@ -13,6 +13,11 @@
   - [Stock Market Prediction](https://github.com/AmberHamilton/Stock-Market-Predictions/blob/main/Stocks%20Prediction.ipynb)
   - [Retail Company Analysis](https://github.com/AmberHamilton/Retail-Company-Analysis)
 
+- <b>Certifications</b>
+  - [CompTIA CySa+]()
+  - [Cybersecurity	Job	Simulation]()
+  - [Business Intelligence & Data Analyst (BIDA®)]()
+  
 <h2> 🤳 Connect with me:</h2>
 
 [<img align="left" alt="Amber Hamilton | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
