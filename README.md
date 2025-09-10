@@ -7,7 +7,7 @@
   - [Performing Vulnerability Analysis]()
   - Performing Asset Discovery
   - Performing Passive Scanning
-  - [Performing Vulnerability Scanning](https://github.com/AmberHamilton/Analyzing-Cloud-Vulnerabilities)
+  - [Analyzing Cloud Vulnerabilities](https://github.com/AmberHamilton/Analyzing-Cloud-Vulnerabilities)
     
 - <b>Python Projects</b>
   - [Stock Market Prediction](https://github.com/AmberHamilton/Stock-Market-Predictions/blob/main/Stocks%20Prediction.ipynb)
