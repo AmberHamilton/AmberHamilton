@@ -15,7 +15,7 @@
 
 - <b>Certifications</b>
   - [CompTIA CySa+]()
-  - [Cybersecurity	Job	Simulation]()
+  - [Cybersecurity	Job	Simulation with mastercard]()
   - [Business Intelligence & Data Analyst (BIDA®)]()
   
 <h2> 🤳 Connect with me:</h2>
