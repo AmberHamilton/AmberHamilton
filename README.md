@@ -3,11 +3,14 @@
 <h2>👩‍💻 Some Cyber Security Projects:</h2>
 
 - <b>SOC Lab Environment & Realtime Malware Analysis</b>
+  - [Analyzing Potentially Malicious Files](https://github.com/AmberHamilton/Analyzing-Potentially-Malicious-Files-/blob/main/README.md) 
   - [Performing Vulnerability Scanning](https://github.com/AmberHamilton/Performing-Vulnerability-Scanning/tree/main)
-  - [Performing Vulnerability Analysis]()
-  - Performing Asset Discovery
-  - Performing Passive Scanning
+  - [Using Network Sniffers]
   - [Analyzing Cloud Vulnerabilities](https://github.com/AmberHamilton/Analyzing-Cloud-Vulnerabilities)
+  - [Performing IoC Detection and Analysis]
+  - [Performing and Detecting SQLi/XSS]
+  - [Establishing Context Awareness]
+  - [Assisted Lab: Detecting Legacy Systems]
     
 - <b>Python Projects</b>
   - [Stock Market Prediction](https://github.com/AmberHamilton/Stock-Market-Predictions/blob/main/Stocks%20Prediction.ipynb)
