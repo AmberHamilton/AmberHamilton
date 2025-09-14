@@ -2,7 +2,7 @@
 
 <h2>👩‍💻 Some Cyber Security Projects:</h2>
 
-- <b>SOC Lab Environment & Realtime Malware Analysis</b>
+- <b>SOC Lab Environment & Realtime Malware Analysis Projects</b>
   - [Analyzing Potentially Malicious Files](https://github.com/AmberHamilton/Analyzing-Potentially-Malicious-Files-/blob/main/README.md) 
   - [Performing Vulnerability Scanning](https://github.com/AmberHamilton/Performing-Vulnerability-Scanning/tree/main)
   - [Using Network Sniffers]
