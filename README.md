@@ -3,7 +3,7 @@
 <h2>👩‍💻 Machine Learning Project:</h2>
 
 - <b>Calorie Counter | Food-101 Image Classifier</b>
-  - [Calorie Counter v2]([https://github.com/AmberHamilton/Analyzing-Potentially-Malicious-Files-/blob/main/README.md](https://github.com/AmberHamilton/Calorie-Counter)) 
+  - [Calorie Counter v2](https://github.com/AmberHamilton/Calorie-Counter) 
 
 <h2>👩‍💻 Some Cyber Security Projects:</h2>
 
