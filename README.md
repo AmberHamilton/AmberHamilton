@@ -1,16 +1,17 @@
 <h1>Hi, I'm Amber! <br/><a href="https://github.com/AmberHamilton">Programmer</a>, <a href="https://www.linkedin.com/in/amber-ariel-hamilton-53749419a/">Cybersecurity Professional</a></h1>
 
+<h2>👩‍💻 Machine Learning Project:</h2>
+
+- <b>Calorie Counter | Food-101 Image Classifier</b>
+  - [Calorie Counter v2]([https://github.com/AmberHamilton/Analyzing-Potentially-Malicious-Files-/blob/main/README.md](https://github.com/AmberHamilton/Calorie-Counter)) 
+
 <h2>👩‍💻 Some Cyber Security Projects:</h2>
 
 - <b>SOC Lab Environment & Realtime Malware Analysis Projects</b>
   - [Analyzing Potentially Malicious Files](https://github.com/AmberHamilton/Analyzing-Potentially-Malicious-Files-/blob/main/README.md) 
   - [Performing Vulnerability Scanning](https://github.com/AmberHamilton/Performing-Vulnerability-Scanning/tree/main)
-  - [Using Network Sniffers]
   - [Analyzing Cloud Vulnerabilities](https://github.com/AmberHamilton/Analyzing-Cloud-Vulnerabilities)
-  - [Performing IoC Detection and Analysis]
-  - [Performing and Detecting SQLi/XSS]
-  - [Establishing Context Awareness]
-  - [Assisted Lab: Detecting Legacy Systems]
+
     
 - <b>Python Projects</b>
   - [Stock Market Prediction](https://github.com/AmberHamilton/Stock-Market-Predictions/blob/main/Stocks%20Prediction.ipynb)
@@ -18,7 +19,9 @@
 
 - <b>Certifications</b>
   - [CompTIA CySa+]()
+  - [Neural Networks and Deep Learning (DeepLearning.AI)]
   - [Cybersecurity	Job	Simulation with mastercard]()
+  - [IBM Data Science Professional Certificate]
   - [Business Intelligence & Data Analyst (BIDA®)]()
   
 <h2> 🤳 Connect with me:</h2>
